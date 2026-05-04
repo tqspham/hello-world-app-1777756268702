@@ -2,6 +2,8 @@
 
 :root {
   --navbar-height: 64px;
+  --sidebar-width-expanded: 16rem;
+  --sidebar-width-collapsed: 5rem;
 }
 
 html {
